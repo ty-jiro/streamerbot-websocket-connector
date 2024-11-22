@@ -7,9 +7,8 @@ You can create a StreamerBot node anywhere in your scene and fill out the IP and
 
 
 
-## Authors
-
-- [@tyjiro](https://www.twitter.com/TYJlRO)
+## Download
+Downloads are only available to Patrons at this time! You can check out the Patreon post [here](https://www.patreon.com/posts/116474230).
 
 
 ## Installation
@@ -19,6 +18,8 @@ Enable addon in Project Settings (Project > Project Settings > Plugins)
 ## Creating a Connection
 Add a StreamerBot node to your scene and extend the script, or create a script and make an autoload. Fill out the IP and port of your Streamer.bot WebSocket Server.
 
+## Tutorials
+- [How to set up Streamer.bot WebSocket Connector](https://www.patreon.com/posts/116518922)
 
 ## Properties
 | Variable | Type     | Description                |

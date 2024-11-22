@@ -59,5 +59,5 @@ subscribe("Twitch", {
 	})
 ```
 
-### unsubscribe()
+### unsubscribe(id: String, events: Dictionary)
 Unsubscribe from any events that are currently subscribed to. 'id' can be any String you want, mostly for organization. 'events' is a Dictionary with the names of events you want to unsubscribe to.

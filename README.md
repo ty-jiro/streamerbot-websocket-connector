@@ -14,6 +14,8 @@ Downloads are only available to Patrons at this time! You can check out the Patr
 ## Installation
 Extract StreamerbotConnector folder into res://addons/
 Enable addon in Project Settings (Project > Project Settings > Plugins)
+Close Project Settings and reopen them
+Go to the Streamer.bot settings (Project > Project Settings > General > Streamer.bot > Config) and make sure your settings match your Streamer.bot WebSocket Server (in Streamer.bot). If you're leaving everything as default, you don't have to touch this.
 
 ## Creating a Connection
 Add a StreamerBot node to your scene and extend the script, or create a script and make an autoload. Fill out the IP and port of your Streamer.bot WebSocket Server.

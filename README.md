@@ -21,6 +21,7 @@ Go to the Streamer.bot settings (Project > Project Settings > General > Streamer
 Add a StreamerBot node to your scene and extend the script, or create a script and make an autoload.
 ## Tutorials
 - [How to set up Streamer.bot WebSocket Connector](https://www.patreon.com/posts/116518922)
+- [How to Make Streamer.bot WebSocket Connector Do Stuff in Godot](https://www.patreon.com/posts/128013710) (video)
 
 ## Properties
 | Variable | Type     | Description                |

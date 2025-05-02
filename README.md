@@ -18,8 +18,7 @@ Close Project Settings and reopen them
 Go to the Streamer.bot settings (Project > Project Settings > General > Streamer.bot > Config) and make sure your settings match your Streamer.bot WebSocket Server (in Streamer.bot). If you're leaving everything as default, you don't have to touch this.
 
 ## Creating a Connection
-Add a StreamerBot node to your scene and extend the script, or create a script and make an autoload. Fill out the IP and port of your Streamer.bot WebSocket Server.
-
+Add a StreamerBot node to your scene and extend the script, or create a script and make an autoload.
 ## Tutorials
 - [How to set up Streamer.bot WebSocket Connector](https://www.patreon.com/posts/116518922)
 
